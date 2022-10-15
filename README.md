@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Leon's github stats](https://github-readme-stats-peach-chi.vercel.app/api?username=Lucas-TY&hide=stars,contribs&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Leon's github stats](https://github-readme-stats-peach-chi.vercel.app/api?username=LeonCai1&hide=stars,contribs&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=Lucas-TY&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=LeonCai1&theme=dark&layout=compact)
