@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 ![Most Used Languages](https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=LeonCai1&hide=jupyter%20notebook,HTML&theme=dark&layout=compact)
 
-[![LeonCai1' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonCai1&custom_title=Leon%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+![LeonCai1' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonCai1&custom_title=Leon%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ------
 
