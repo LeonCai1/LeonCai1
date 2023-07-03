@@ -10,7 +10,12 @@ Heya! I'm Ziheng(Leon) Cai a student currently living in Columbus, Ohio. I'm loo
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,js,go,docker,postgres,sqlite,gradle,django,react,aws,gcp,pytorch,postman" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,js,go,docker,postgres,sqlite,gradle,django,react,redis,androidstudio," />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,pytorch,idea,postman,linux,latex" />
   </a>
 </p>
 <br>
