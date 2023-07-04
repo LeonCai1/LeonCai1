@@ -38,11 +38,12 @@ class LeonTrips():
 if __name__ == '__main__':
     me = LeonTrips()
 ```
-[![Leon's github stats](https://github-readme-stats-peach-chi.vercel.app/api?username=LeonCai1&hide=stars,contribs&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=LeonCai1&hide=jupyter%20notebook,HTML&theme=dark&layout=compact)
+[![Leon's github stats](https://github-readme-stats-peach-chi.vercel.app/api?username=LeonCai1&hide=stars,contribs&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) ![Most Used Languages](https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=LeonCai1&hide=jupyter%20notebook,HTML&theme=dark&layout=compact)      
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wi86p8xctfotk635o5v0bsmgm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wi86p8xctfotk635o5v0bsmgm&redirect=true)
 
 ![LeonCai1' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonCai1&custom_title=Leon%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
 
 ------
 
