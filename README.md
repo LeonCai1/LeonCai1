@@ -30,7 +30,7 @@ class LeonTrips():
     self.username = "LeonCai1";
     self.location = "Ohio, US";
     self.WeChat = "Monologue_Leon";
-    self.LinkedIn ="https://www.linkedin.com/in/ziheng-cai-91b05022b/";
+    self.LinkedIn ="ziheng-cai";
   
   def __str__(self):
     return self.name
