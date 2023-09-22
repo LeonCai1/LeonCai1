@@ -2,7 +2,7 @@
   <b>Leon Trips</b>
 </h1>
 
-Heya! I'm Ziheng(Leon) Cai a CS student currently living in Columbus, Ohio. I'm looking for 
+Heya! I'm Ziheng(Leon) Cai a CS student currently living in Urbana, IL. I'm looking for 
  SDE Intern positions.</a>
 
 
@@ -28,7 +28,7 @@ class LeonTrips():
   def __init__(self):
     self.name = "Ziheng(Leon) Cai";
     self.username = "LeonCai1";
-    self.location = "Ohio, US";
+    self.location = "IL, US";
     self.WeChat = "Monologue_Leon";
     self.LinkedIn ="ziheng-cai";
   
