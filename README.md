@@ -40,7 +40,7 @@ if __name__ == '__main__':
 ```
 <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=wi86p8xctfotk635o5v0bsmgm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true">
 
-<img align="left" src="https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=LeonCai1&hide=jupyter%20notebook,HTML&theme=dark&hide_progress=true">
+<img align="left" src="https://github-readme-stats-peach-chi.vercel.app/api/top-langs/?username=LeonCai1&hide=jupyter%20notebook,HTML&theme=dark&hide_progress=true&exclude_repo=CS598-MP2-Apache-Arrow">
 
 <!---------------->
 
