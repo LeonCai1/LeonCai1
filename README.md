@@ -2,8 +2,8 @@
   <b>Leon Trips</b>
 </h1>
 
-Heya! I'm Ziheng(Leon) Cai a CS student currently living in Urbana, IL. I'm looking for 
- SDE Intern positions.</a>
+Heya! I'm Ziheng(Leon) Cai a CS student living in Urbana, IL. I'm looking for 
+ SDE NG positions.</a>
 
 
 <br>
